@@ -1,4 +1,4 @@
-# 👩‍💻 Cheila Melo
+# ![Image](https://github.com/user-attachments/assets/ec773cc0-df23-4c6d-89f7-5e6ada9c33a6)
 
 <p align="left">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&width=435&lines=Desenvolvedora+Front+End" alt="Desenvolvedora Front End" />
@@ -130,31 +130,24 @@ Sempre buscando aprender, evoluir e contribuir com projetos significativos, gost
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" 
-/>  
-<img 
-    align="left" 
-    alt="Microsoft  Sql Server" 
-    title="Microsoft  Sql Server"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" 
-/>  
+/> 
 <img 
     align="left" 
     alt="My Sql" 
     title="My Sql"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+    src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg" 
 />
 <img 
     align="left" 
     alt="Oracle" 
     title="Oracle"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" 
 />
+
 <br/>
 <br/>
 
@@ -166,8 +159,8 @@ Sempre buscando aprender, evoluir e contribuir com projetos significativos, gost
     title="Wordpress"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" 
-/>
+    src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Wordpress.svg" 
+/> 
 <img 
     align="left" 
     alt="Magento" 
