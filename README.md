@@ -147,9 +147,8 @@ Sempre buscando aprender, evoluir e contribuir com projetos significativos, gost
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" 
 />
-
-<br/>
-<br/>
+</br>
+</br>
 
 **CMS & Plataformas:**
 
@@ -168,10 +167,9 @@ Sempre buscando aprender, evoluir e contribuir com projetos significativos, gost
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/magento/magento-original.svg" 
-/>   
-<br/>
-<br/>
-
+/>  
+</br>
+</br>
 **Ferramentas:**
 
 <img 
