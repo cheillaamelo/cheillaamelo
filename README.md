@@ -5,9 +5,9 @@
 </p>
 
 
-Tenho experiência sólida em **Next.js, React, TypeScript e Tailwind CSS**, atuando na criação de aplicações web modernas, responsivas e dinâmicas.
+Experiência sólida em **Next.js, React, TypeScript e Tailwind CSS**, atuando na criação de aplicações web modernas, responsivas e dinâmicas.
 
-Tenho vivência na **customização de temas WordPress**, consumo de **APIs REST**, integração com CMSs como **Magento**, além de conhecimentos em **PHP, Node.js, .NET e bancos de dados relacionais**.
+Vivência na **customização de temas WordPress**, consumo de **APIs REST**, integração com CMSs como **Magento**, além de conhecimentos em **PHP, Node.js, .NET e bancos de dados relacionais**.
 
 Sempre buscando aprender, evoluir e contribuir com projetos significativos, gosto de resolver problemas de forma proativa, com foco em desempenho, usabilidade e qualidade do código.
 
